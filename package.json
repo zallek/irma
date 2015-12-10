@@ -18,7 +18,11 @@
     "url": "https://github.com/zallek/irma/issues"
   },
   "homepage": "https://github.com/zallek/irma#readme",
-  "dependencies": {},
+  "dependencies": {
+    "distributions-normal": "^2.0.2",
+    "lodash.omit": "^3.1.0",
+    "npm": "^3.5.1"
+  },
   "devDependencies": {
     "babel-core": "^6.3.2",
     "babel-preset-es2015": "^6.1.18",

@@ -1,4 +1,3 @@
+import Irma from './Irma';
 
-export default function (packageName) {
-
-}
+export default Irma;
